@@ -1,0 +1,11 @@
+match_id,batting_team,bowling_team,overs,runs,wickets,runs_last_5,wickets_last_5,total
+1,Chennai Super Kings,Mumbai Indians,5.2,45,1,32,1,180
+2,Royal Challengers Bangalore,Kolkata Knight Riders,10.1,89,3,40,1,175
+3,Mumbai Indians,Delhi Capitals,12.4,110,2,50,0,190
+4,Sunrisers Hyderabad,Rajasthan Royals,8.3,70,2,35,1,165
+5,Kings XI Punjab,Chennai Super Kings,15.0,140,4,60,2,200
+6,Kolkata Knight Riders,Mumbai Indians,7.5,60,1,28,0,170
+7,Delhi Capitals,Royal Challengers Bangalore,14.2,130,5,55,2,195
+8,Rajasthan Royals,Sunrisers Hyderabad,11.3,100,3,42,1,178
+9,Mumbai Indians,Kings XI Punjab,16.1,150,4,65,1,210
+10,Chennai Super Kings,Delhi Capitals,13.0,120,3,50,1,185
