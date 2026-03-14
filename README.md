@@ -25,3 +25,11 @@ AI/ML Student
 
 ## Results
 The trained model achieved an **R² score of 0.87 on the test dataset**, showing good predictive performance for estimating IPL first-innings scores.
+IPL first-innings score predictor using machine learning regression models in Python.
+machine-learning
+python
+data-science
+scikit-learn
+ipl
+regression
+sports-analytics
