@@ -21,3 +21,7 @@ This project predicts the final score of an IPL match using machine learning.
 ## Author
 Srikanth Yadav
 AI/ML Student
+
+
+## Results
+The trained model achieved an **R² score of 0.87 on the test dataset**, showing good predictive performance for estimating IPL first-innings scores.
